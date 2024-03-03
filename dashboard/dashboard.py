@@ -22,7 +22,7 @@ def weather_data(df):
     df_weather = df_weather.sort_values(ascending=False)
     return df_weather
 
-hour_dt = pd.read_csv("dashboard\new_data.csv")
+hour_dt = pd.read_csv("./dashboard/new_data.csv")
 season_avg_df = season_avg_data(hour_dt)
 percent_registered, percent_casual = user_percentage_data(hour_dt)
 weather_df = weather_data(hour_dt)
