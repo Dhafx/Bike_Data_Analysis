@@ -12,3 +12,5 @@ Baca dan interpretasikan visualisasi data yang ditampilkan.
 ### Note
 Data yang digunakan dalam aplikasi ini adalah "new_data.csv". Pastikan file ini berada di direktori yang sama dengan file Python atau copy data dari link github.
 
+Link Collab : https://colab.research.google.com/drive/1kiqehPfZ7rNCYlWeerqGsHL277H1AVIu?usp=sharing
+
